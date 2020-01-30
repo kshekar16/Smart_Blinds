@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">smartblinds</string>
+    <string name="already_user">Already User</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_out">sign out</string>
+    <string name="test_view">Test View</string>
+    <string name="login">Login</string>
 </resources>
